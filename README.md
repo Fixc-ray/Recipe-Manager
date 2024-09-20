@@ -45,9 +45,7 @@ The **Recipe Manager CLI** is a Python-based command-line application designed t
    Open your terminal and run the following command:
 
    ```bash
-   git clone https://github.com/your-repo/recipe-manager-cli.git
-   cd recipe-manager-cli
-   # Recipe Manager CLI
+    https://github.com/Fixc-ray/Recipe-Manager
 
 ## Usage
 
