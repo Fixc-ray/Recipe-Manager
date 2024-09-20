@@ -53,15 +53,7 @@ The **Recipe Manager CLI** is a Python-based command-line application designed t
 
 The Recipe Manager CLI can be used for managing recipes. Below are examples of how to use the application to add, update, delete, and search recipes.
 
-### Adding a Recipe
-
-To add a recipe to the database, use the following command:
-
-
-### Updating a recipe
-
-You can update an existing recipe by specifying the recipe's ID and new details using the following command:
-## Screenshots
+### Screenshots
 
 Below are some screenshots showing the usage of the Recipe Manager CLI.
 
